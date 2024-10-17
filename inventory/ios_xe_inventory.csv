@@ -1,0 +1,3 @@
+HOSTNAME,MGMT IP,NOTES
+wsds-ciscolab-l3wan,192.168.0.1,Production - ISR C11118PWB
+wsds-ciscolab-cat8000v,10.0.2.2,CML SIM
